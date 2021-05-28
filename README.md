@@ -119,7 +119,6 @@ Bisa dilihat response mengembalikan OK 200
 ## Dokumentasi Penggunaan Delete
 **Menggunakan Method Delete untuk menghapus Catatan A**  
 Bisa dilihat response mengembalikan OK 200
-![Put A](https://github.com/2021-IT-Pemrograman-Integratif/project-2-BryanYehuda/blob/master/references/documentation/Delete.png)
-
+![Delete](https://github.com/BryanYehuda/NotesAPI/blob/main/references/documentation/Delete.png)
 ## Hosting
 API ini dilakukan hosting pada alamat http://54.197.182.218:5000
