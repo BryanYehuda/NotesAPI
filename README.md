@@ -120,5 +120,8 @@ Bisa dilihat response mengembalikan OK 200
 **Menggunakan Method Delete untuk menghapus Catatan A**  
 Bisa dilihat response mengembalikan OK 200
 ![Delete](https://github.com/BryanYehuda/NotesAPI/blob/main/references/documentation/Delete.png)
-## Hosting
-API ini dilakukan hosting pada alamat http://54.197.182.218:5000
+
+## LISENSI
+Repository ini memiliki **Lisensi MIT.**      
+Lisensi ini membolehkan pengguna untuk melakukan perubahan apapun pada kode program. Lisensi ini hanya mewajibkan pengguna untuk menyertakan lisensi dan copyright pembuat pada kode yang didistribusikan ulang dan tidak ada larangan untuk menggunakan trademark dari pembuat asli. Selain itu pengguna juga tidak berhak untuk menuntut pembuat ketika terjadi kerusakan pada perangkat lunak tersebut.
+
